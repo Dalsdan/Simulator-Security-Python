@@ -39,8 +39,7 @@ Make sure Python 3 is installed on your system.
 
 Clone this repository:
 
-git clone https://github.com/YOUR_USERNAME/simulador-seguranca-python.git
-
+git clone https://github.com/Dalsdan/Simulator-Security-Python.git
 
 Navigate to the project directory and run the script:
 
