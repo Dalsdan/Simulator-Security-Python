@@ -27,15 +27,23 @@ Acts as a gatekeeping mechanism to determine whether an IP address is allowed or
 Dynamic Security Feedback
 Provides clear console output that simulates logging and security auditing behavior.
 
+
+
+
 Technologies Used
 
 Python 3.x
 
 Git & GitHub (Version Control)
 
+
+
+
 How to Run
 
 Make sure Python 3 is installed on your system.
+
+
 
 Clone this repository:
 
@@ -45,9 +53,14 @@ Navigate to the project directory and run the script:
 
 python verificador_ip.py
 
+
+
+
 Professional Goals
 
 This repository serves as a practical record of my transition from physical network infrastructure to software-defined security solutions.
+
+
 
 My current learning focus includes:
 
